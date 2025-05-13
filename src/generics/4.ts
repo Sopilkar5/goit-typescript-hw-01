@@ -1,4 +1,4 @@
-type User = {
+type UserProfile = {
     name: string;
     surname: string;
     email: string;
